@@ -6,8 +6,8 @@ export const site = {
   brand: 'aitezaz.dev',
   email: 'devangpanchal23052006@gmail.com',
   location: 'Pakistan',
-  timeZone: 'Asia/Karachi',
-  timeZoneLabel: 'PKT',
+  timeZone: 'Asia/Kolkata',
+  timeZoneLabel: 'IST',
   url: 'https://aitezazdev.vercel.app',
   tagline: 'Full Stack Developer crafting fast, expressive web experiences.',
   roles: [
@@ -24,7 +24,7 @@ export const socials: Record<SocialKey, { label: string; href: string }> = {
   github: { label: 'GitHub', href: 'https://github.com/devangpanchal23' },
   linkedin: { label: 'Linkedin', href: 'https://www.linkedin.com/in/devang-panchal-687915277/' },
   instagram: { label: 'Instagram', href: 'https://www.instagram.com/breatheasy4/' },
-  source: { label: 'Source Code', href: 'https://github.com/devangpanchal23/Portfolio' },
+  source: { label: 'Source Code', href: 'https://github.com/devangpanchal23/Devang_Portfolio' },
 };
 
 export const socialList: Array<{ label: string; href: string }> = [
