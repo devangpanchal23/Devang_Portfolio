@@ -8,31 +8,46 @@ import FlowField from '@/components/canvas/FlowField';
 
 const CREDENTIALS = [
   {
-    year: '2026',
-    title: 'Software Engineer Intern - MERN Stack',
-    organization: 'e-strats, Islamabad',
-    type: 'Industry',
-  },
-  {
-    year: '2026',
-    title: 'HEC National Skills Competency Test (NSCT)',
-    organization: 'HEC, PSEB & P@SHA',
-    stat: '95th Percentile, Top 5% nationwide',
-    type: 'Recognition',
-  },
-  {
-    year: '2024-25',
-    title: 'Web and Mobile App Development',
-    organization: 'Saylani Mass IT Training (SMIT), Peshawar',
-    stat: 'Full-Stack MERN, TypeScript, Next.js & Hybrid Apps',
-    type: 'Certification',
-  },
-  {
-    year: '2022-26',
-    title: 'BS Computer Science',
-    organization: 'University of Peshawar',
-    stat: '3.60 / 4.00 GPA',
+    year: '2024-26',
+    title: 'Bachelor of Computer Applications (BCA)',
+    organization:
+      'Currently pursuing my BCA, building a strong foundation in software development, databases, programming, and computer science fundamentals.',
     type: 'Education',
+  },
+  {
+    year: '2025-26',
+    title: 'From Learning to Building',
+    organization:
+      'Started turning my learning into practical projects and gradually moved from programming fundamentals to full-stack web development.',
+    type: 'Development',
+  },
+  {
+    year: '2025-26',
+    title: '10+ Real-World Projects + 25-30 College Projects',
+    organization:
+      'Built and worked on 10+ real-world projects and 25-30 more projects at college time, gaining practical experience by solving different real-world requirements and development challenges.',
+    type: 'Experience',
+  },
+  {
+    year: '2025-26',
+    title: 'Full-Stack Development',
+    organization:
+      'Expanded from frontend development into building complete applications with frontend, backend, databases, APIs, and deployment.',
+    type: 'Development',
+  },
+  {
+    year: '2026',
+    title: 'Building Real-World Applications',
+    organization:
+      'Currently focused on building practical software projects and improving my skills through real-world development.',
+    type: 'Current',
+  },
+  {
+    year: '2026',
+    title: 'Exploring AI & Modern Development',
+    organization:
+      'Continuing to expand into AI-powered applications, automation, and modern software development.',
+    type: 'Future',
   },
 ];
 
