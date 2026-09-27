@@ -6,7 +6,15 @@ import ScrollWordReveal from '@/components/ui/ScrollWordReveal';
 import AnimatedHeading from '@/components/ui/AnimateHeading';
 import FlowField from '@/components/canvas/FlowField';
 
-const CREDENTIALS = [
+type Credential = {
+  year: string;
+  title: string;
+  organization: string;
+  type: string;
+  stat?: string;
+};
+
+const CREDENTIALS: Credential[] = [
   {
     year: '2024-26',
     title: 'Bachelor of Computer Applications (BCA)',
