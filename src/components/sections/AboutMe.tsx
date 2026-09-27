@@ -19,42 +19,42 @@ const CREDENTIALS: Credential[] = [
     year: '2024-26',
     title: 'Bachelor of Computer Applications (BCA)',
     organization:
-      'Currently pursuing my BCA, building a strong foundation in software development, databases, programming, and computer science fundamentals.',
+      'Graduated with a BCA — now turning that foundation into software that solves real problems.',
     type: 'Education',
   },
   {
     year: '2025-26',
     title: 'From Learning to Building',
     organization:
-      'Started turning my learning into practical projects and gradually moved from programming fundamentals to full-stack web development.',
+      'What started with learning the fundamentals evolved into building applications, solving problems, and turning ideas into working software.',
     type: 'Development',
   },
   {
     year: '2025-26',
     title: '10+ Real-World Projects + 25-30 College Projects',
     organization:
-      'Built and worked on 10+ real-world projects and 25-30 more projects at college time, gaining practical experience by solving different real-world requirements and development challenges.',
+      'From academic builds to real-world requirements, every project has been a chance to turn ideas into working solutions.',
     type: 'Experience',
   },
   {
     year: '2025-26',
     title: 'Full-Stack Development',
     organization:
-      'Expanded from frontend development into building complete applications with frontend, backend, databases, APIs, and deployment.',
+      'Expanded from building interfaces to engineering complete applications across the frontend, backend, data, APIs, and deployment.',
     type: 'Development',
   },
   {
     year: '2026',
     title: 'Building Real-World Applications',
     organization:
-      'Currently focused on building practical software projects and improving my skills through real-world development.',
+      'Today, I build practical software to turn ideas and requirements into solutions that work beyond the screen.',
     type: 'Current',
   },
   {
     year: '2026',
     title: 'Exploring AI & Modern Development',
     organization:
-      'Continuing to expand into AI-powered applications, automation, and modern software development.',
+      'The journey continues into AI-powered applications, automation, and new ways of building smarter software.',
     type: 'Future',
   },
 ];

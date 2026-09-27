@@ -2,8 +2,8 @@ import { Metadata } from 'next';
 
 export const siteMetadata: Metadata = {
   title: {
-    default: 'Aitezaz Sikandar - Full Stack Developer',
-    template: '%s | Aitezaz Sikandar',
+    default: 'Devang Panchal - Full Stack Developer',
+    template: '%s | Devang Panchal',
   },
   description:
     'Web developer specializing in React, Next.js, and MERN Stack development. Building fast, scalable, and user-focused web applications.',
