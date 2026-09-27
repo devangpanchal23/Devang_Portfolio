@@ -130,19 +130,19 @@ const NavbarBrand: React.FC<NavbarBrandProps> = ({ logoRef, handleLinkClick }) =
           handleLinkClick('/#top');
         }}
         className="group flex items-center cursor-pointer select-none py-1 text-warm"
-        aria-label="Aitezaz Sikandar Home"
+        aria-label="Devang Panchal Home"
       >
         <div className="transition-transform duration-500 ease-in-expo group-hover:rotate-[360deg] flex items-center justify-center">
           <Copyright className="w-[18px] h-[18px]" />
         </div>
         <div className="relative ms-2 flex items-center whitespace-nowrap text-warm text-lg font-sans tracking-wide font-medium leading-none">
-          <span>aitezaz</span>
+          <span>Devang</span>
           <span className="relative inline-flex items-center overflow-hidden transition-all duration-500 ease-in-expo w-[32px] group-hover:w-[86px]">
             <span className="transition-transform duration-500 ease-in-expo group-hover:-translate-x-full inline-block">
-              dev
+              Dev
             </span>
             <span className="absolute left-0 ps-1.5 transition-transform duration-500 ease-in-expo translate-x-full group-hover:translate-x-0 inline-block">
-              sikandar
+              Panchal
             </span>
           </span>
         </div>
