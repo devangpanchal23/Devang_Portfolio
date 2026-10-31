@@ -12,6 +12,7 @@ import './globals.css';
 import ClientLayout from './ClientLayout';
 import { siteMetadata } from '@/lib/metadata';
 import { Analytics } from '@vercel/analytics/react';
+import { SpeedInsights } from '@vercel/speed-insights/next';
 import { GoogleAnalytics } from '@next/third-parties/google';
 
 const geistSans = Geist({
@@ -52,6 +53,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         </a>
         <ClientLayout>{children}</ClientLayout>
         <Analytics />
+        <SpeedInsights />
         {process.env.NEXT_PUBLIC_GA_ID && (
           <GoogleAnalytics gaId={process.env.NEXT_PUBLIC_GA_ID} />
         )}
